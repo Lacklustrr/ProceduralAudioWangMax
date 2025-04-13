@@ -1,0 +1,16 @@
+Blueprint used to trigger two separate soundscape systems. 
+One populated with sample based metasounds. The other to populate with procedurally metasounds. 
+
+Procedural map and Sample based map use the same audio gameplay volumes, with the same IR verb. 
+
+Working on a procedural and sample based bow pull for the arrow based on bow pull distance param. 
+
+Cannons will remain a constant in both maps. 
+
+Fire distance blending is sample based only right now. 
+
+Sfx to have sample and procedural versions as of now: 
+
+-bow pull and fire
+-fire distance blend 
+-ambience (wind, insects, birds, trees)  
